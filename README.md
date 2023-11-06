@@ -1,9 +1,9 @@
 # Iceriver-OC
 这是一份关于ICERIVER_xyys版本的说明：<br>
 The English version is as follows:<br>
-目前所有固件采用MAC地址绑定的方式制作，请通过telegram或者discord联系我。<br>
-telegram:@xyys81255<br>
-discord:xyys._81255<br>
+目前所有固件采用MAC地址绑定的方式制作，请通过**telegram**或者**discord**联系我。<br>
+**`telegram:@xyys81255`<br>**
+**`discord:xyys._81255`<br>**
 如果您有多台设备，可以申请折扣，具体折扣请联系我。<br>
 以下为可选择的固件版本及售价<br>
 | 固件版本 | 适用型号 | 算力 | 售价 | 开发费 |  
@@ -15,10 +15,10 @@ discord:xyys._81255<br>
 | ks2_3T | iceriver_ks2 | 3000G | 研发中 | 研发中 | 
 | ks0_200g | iceriver_ks0 | 200G | 研发中 | 研发中 | 
 
-如果你已经购买过我的固件，那么请联系我，补差价即可获得。
-请联系我并且告知您设备的mac地址，不管什么版本，所有版本的固件都和mac地址绑定。
+**如果你已经`购买过我的固件`，那么请联系我，`补差价`即可获得。**
+请联系我并且告知您设备的mac地址，不管什么版本，所有版本的固件都和mac地址绑定。<br>
 
-<br>
+
 This is a document about ICERIVER_ Description of xyys version:<br>
 Currently, all firmware is produced using MAC address binding. Please contact me through Telegram or Discord<br>
 telegram:@xyys81255<br>
