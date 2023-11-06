@@ -11,6 +11,10 @@ discord:xyys._81255<br>
 | ks1_1.6T | iceriver_ks1 | 1600G | 2000KAS | 0 | 
 | ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS | 0 | 
+| ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 
+| ks2_3T | iceriver_ks2 | 3000G | 研发中 | 研发中 | 
+| ks0_200g | iceriver_ks0 | 200G | 研发中 | 研发中 | 
+
 
 请联系我并且告知您设备的mac地址，不管什么版本，所有版本的固件都和mac地址绑定。
 
@@ -27,5 +31,8 @@ The following are the available firmware versions and prices<br>
 | ks1_1.6T | iceriver_ks1 | 1600G | 2000KAS | 0 | 
 | ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS| 0 | 
+| ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 
+| ks2_3T | iceriver_ks2 | 3000G | coming soon | coming soon | 
+| ks0_200g | iceriver_ks0 | 200G | coming soon | coming soon | 
 <br>
 Please contact me and let me know the MAC address of your device. Regardless of the version, all versions of firmware are bound to the MAC address.
