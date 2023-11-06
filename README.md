@@ -4,7 +4,7 @@ The English version is as follows:<br>
 目前所有固件采用MAC地址绑定的方式制作，请通过telegram或者discord联系我。<br>
 telegram:@xyys81255<br>
 discord:xyys._81255<br>
-
+如果您有多台设备，可以申请折扣，具体折扣请联系我。<br>
 以下为可选择的固件版本及售价<br>
 | 固件版本 | 适用型号 | 算力 | 售价 | 开发费 |  
 | --- | --- | --- |  --- |  --- |  
@@ -19,6 +19,7 @@ This is a document about ICERIVER_ Description of xyys version:<br>
 Currently, all firmware is produced using MAC address binding. Please contact me through Telegram or Discord<br>
 telegram:@xyys81255<br>
 discord:xyys._81255<br>
+If you have multiple devices, you can apply for a discount. Please contact me for specific discounts.<br>
 The following are the available firmware versions and prices<br>
 
 | FW version | model | hash rate | prices | dev fee |  
