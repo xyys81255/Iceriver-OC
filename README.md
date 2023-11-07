@@ -36,4 +36,9 @@ The following are the available firmware versions and prices<br>
 | ks0_200g | iceriver_ks0 | 200G | coming soon | coming soon |   |
 <br>
 Please contact me and let me know the MAC address of your device. Regardless of the version, all versions of firmware are bound to the MAC address.
-If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.
+If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>
+-------------------------------------------Update 11.7--------------------------------------------------------<br>
+<br>
+KS0 180G版本稳定，以前升级160G失败的用户也可以尝试升级180G。将在几天后完成。<br>
+KS0 200G，需要换散热用的硅脂和增加高转速风扇，性价比较低，正在整理制作超频方案。<br>
+KS2 3T版本测试中发现电源上限已经到了，可能无法达到3T。<br>
