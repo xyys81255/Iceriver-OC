@@ -38,7 +38,7 @@ The following are the available firmware versions and prices<br>
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
-| ks0_200g | iceriver_ks0 | 200G | coming soon | coming soon |   |
+| ks0_180g | iceriver_ks0 | 170-180G | 300KAS | 0 | 130W  |
 <br>
 
 KS0_ 180G is a new solution. Machines that were previously unable to upgrade to the 160G version can be tried. Two versions of firmware, 160G and 180G, will be provided.<br>
