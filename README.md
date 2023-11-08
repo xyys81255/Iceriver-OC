@@ -12,8 +12,9 @@ The English version is as follows:<br>
 | ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W  |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS | 0 | 3550W （风扇外接）  | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
-| ks2_3T | iceriver_ks2 | 3000G | 研发中 | 研发中 |   |
-| ks0_200g | iceriver_ks0 | 200G | 研发中 | 研发中 |   |
+| ks2_2.75T | iceriver_ks2 | 2750G | 1400kas | 0 | 1800w  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
+| ks0_200g | iceriver_ks0 | 200G | 研发中 |  |   |
 
 **如果你已经`购买过我的固件`，那么请联系我，`补差价`即可获得。**
 请联系我并且告知您设备的mac地址，不管什么版本，所有版本的固件都和mac地址绑定。<br>
@@ -32,11 +33,16 @@ The following are the available firmware versions and prices<br>
 | ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W |
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS| 0 | 3550W (The fan is powered externally） | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
-| ks2_3T | iceriver_ks2 | 3000G | coming soon | coming soon |  | 
+| ks2_2.75T | iceriver_ks2 | 2750G | 1400kas | 0 | 1800w  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_200g | iceriver_ks0 | 200G | coming soon | coming soon |   |
 <br>
 Please contact me and let me know the MAC address of your device. Regardless of the version, all versions of firmware are bound to the MAC address.
 If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>
+
+-------------------------------------------Update 11.8--------------------------------------------------------<br>
+KS2 2750G上市。
+<br>
 -------------------------------------------Update 11.7--------------------------------------------------------<br>
 <br>
 KS0 180G版本稳定，以前升级160G失败的用户也可以尝试升级180G。将在几天后完成。<br>
