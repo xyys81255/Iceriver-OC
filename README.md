@@ -17,6 +17,7 @@ The English version is as follows:<br>
 | ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
 
 KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝试。将会提供160G和180G，2个版本的固件。<br>
+使用这份固件，请确保你的电源在150W以上，并且加装了外置风扇。<br>
 
 **如果你已经`购买过我的固件`，那么请联系我，`补差价`即可获得。** KS0不参加这次的活动。<br>
 
@@ -42,7 +43,9 @@ The following are the available firmware versions and prices<br>
 <br>
 
 KS0_ 180G is a new solution. Machines that were previously unable to upgrade to the 160G version can be tried. Two versions of firmware, 160G and 180G, will be provided.<br>
-
+Using this firmware, please ensure that your KS0 has an additional fan installed. It's best to replace the silicone grease.
+Power supply power above 150W
+<br>
 Please contact me and let me know the MAC address of your device. Regardless of the version, all versions of firmware are bound to the MAC address.<br>
 
 If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>KS0 will not participate in this event.<br>
