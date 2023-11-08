@@ -49,8 +49,12 @@ Power supply power above 150W
 Please contact me and let me know the MAC address of your device. Regardless of the version, all versions of firmware are bound to the MAC address.<br>
 
 If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>KS0 will not participate in this event.<br>
+No, the first firmware is to clean up your cache.
 
-
+<br>
+-------------------------------------------Update 11.8--------------------------------------------------------<br>
+someone's ks0 run on the 188GG.
+https://cdn.discordapp.com/attachments/1155048883563540601/1171837324645109790/IMG_0528.jpg?ex=655e218d&is=654bac8d&hm=7fa55abad1a8dea54a72d7f7124fa0a2ec7b6e49d1a6dc643f6dd561f9d449db&
 -------------------------------------------Update 11.8--------------------------------------------------------<br>
 KS2 2750G上市。
 <br>
