@@ -54,11 +54,12 @@ No, the first firmware is to clean up your cache.
 <br>
 -------------------------------------------Update 11.8--------------------------------------------------------<br>
 someone's ks0 run on the 188GG.
-https://cdn.discordapp.com/attachments/1155048883563540601/1171837324645109790/IMG_0528.jpg?ex=655e218d&is=654bac8d&hm=7fa55abad1a8dea54a72d7f7124fa0a2ec7b6e49d1a6dc643f6dd561f9d449db&
+https://cdn.discordapp.com/attachments/1155048883563540601/1171837324645109790/IMG_0528.jpg?ex=655e218d&is=654bac8d&hm=7fa55abad1a8dea54a72d7f7124fa0a2ec7b6e49d1a6dc643f6dd561f9d449db&<br>
 -------------------------------------------Update 11.8--------------------------------------------------------<br>
 KS2 2750G上市。
 <br>
 KS0_180G上市。
+<br>
 -------------------------------------------Update 11.7--------------------------------------------------------<br>
 <br>
 KS0 180G版本稳定，以前升级160G失败的用户也可以尝试升级180G。将在几天后完成。<br>
