@@ -14,9 +14,12 @@ The English version is as follows:<br>
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
-| ks0_200g | iceriver_ks0 | 200G | 研发中 |  |   |
+| ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
 
-**如果你已经`购买过我的固件`，那么请联系我，`补差价`即可获得。**
+KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝试。将会提供160G和180G，2个版本的固件。<br>
+
+**如果你已经`购买过我的固件`，那么请联系我，`补差价`即可获得。** KS0不参加这次的活动。<br>
+
 请联系我并且告知您设备的mac地址，不管什么版本，所有版本的固件都和mac地址绑定。<br>
 
 
@@ -37,12 +40,18 @@ The following are the available firmware versions and prices<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_200g | iceriver_ks0 | 200G | coming soon | coming soon |   |
 <br>
-Please contact me and let me know the MAC address of your device. Regardless of the version, all versions of firmware are bound to the MAC address.
-If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>
+
+KS0_ 180G is a new solution. Machines that were previously unable to upgrade to the 160G version can be tried. Two versions of firmware, 160G and 180G, will be provided.<br>
+
+Please contact me and let me know the MAC address of your device. Regardless of the version, all versions of firmware are bound to the MAC address.<br>
+
+If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>KS0 will not participate in this event.<br>
+
 
 -------------------------------------------Update 11.8--------------------------------------------------------<br>
 KS2 2750G上市。
 <br>
+KS0_180G上市。
 -------------------------------------------Update 11.7--------------------------------------------------------<br>
 <br>
 KS0 180G版本稳定，以前升级160G失败的用户也可以尝试升级180G。将在几天后完成。<br>
