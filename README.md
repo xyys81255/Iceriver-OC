@@ -5,7 +5,7 @@ The English version is as follows:<br>
 **`telegram:@xyys81255`<br>**
 **`discord:xyys._81255`<br>**
 如果您有多台设备，可以申请折扣，具体折扣请联系我。<br>
-*固件升级无效全额退款。我们的固件和免费的固件是不一样的。如果您无法使用免费固件，可以尝试我的固件。<br>
+*固件升级无效全额退款。<br>
 *可以申请抽成版本来试用。有效再付款。<br>
 以下为可选择的固件版本及售价<br>
 | 固件版本 | 适用型号 | 算力 | 售价 | 开发费 |  功耗  |
@@ -31,7 +31,7 @@ Currently, all firmware is produced using MAC address binding. Please contact me
 telegram:@xyys81255<br>
 discord:xyys._81255<br>
 If you have multiple devices, you can apply for a discount. Please contact me for specific discounts.<br>
-*Full refund for invalid firmware upgrade. Our firmware is different from the free firmware. If you are unable to use the free firmware, you can try my firmware.<br>
+*Full refund for invalid firmware upgrade.<br>
 *You can apply for a version that charges development fees to try out. Effective re payment.<br>
 The following are the available firmware versions and prices<br>
 
@@ -58,9 +58,9 @@ No, the first firmware is to clean up your cache.
 <br>
 -------------------------------------------Update 11.21--------------------------------------------------------<br>
 更新退款条款和说明<br>
-*固件升级无效全额退款。我们的固件和免费的固件是不一样的。如果您无法使用免费固件，可以尝试我的固件。<br>
+*固件升级无效全额退款。<br>
 *可以申请抽成版本来试用。有效再付款。<br>
-*Full refund for invalid firmware upgrade. Our firmware is different from the free firmware. If you are unable to use the free firmware, you can try my firmware.<br>
+*Full refund for invalid firmware upgrade.<br>
 *You can apply for a version that charges development fees to try out. Effective re payment.<br>
 -------------------------------------------Update 11.8--------------------------------------------------------<br>
 someone's ks0 run on the 188GG.
