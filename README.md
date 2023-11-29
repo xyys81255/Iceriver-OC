@@ -17,7 +17,7 @@ The English version is as follows:<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
-| ks0pro_360g | iceriver_ks0pro | 360G | ？？？？kas | 0 | 200w  |
+| ks0pro_360g | iceriver_ks0pro | 320-360G | ？？？？kas | 0 | 200w  |
 
 KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝试。将会提供160G和180G，2个版本的固件。<br>
 使用这份固件，请确保你的电源在150W以上，并且加装了外置风扇。<br>
@@ -45,7 +45,7 @@ The following are the available firmware versions and prices<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300KAS | 0 | 130W  |
-| ks0pro_360g | iceriver_ks0pro | 360G | ？？？？kas | 0 | 200w  |
+| ks0pro_360g | iceriver_ks0pro | 320-360G | ？？？？kas | 0 | 200w  |
 
 <br>
 
