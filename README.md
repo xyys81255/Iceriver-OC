@@ -17,6 +17,7 @@ The English version is as follows:<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
+| ks0pro_？？？g | iceriver_ks0pro | ？？？G | ？？？？kas | 0 | 230w  |
 
 KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝试。将会提供160G和180G，2个版本的固件。<br>
 使用这份固件，请确保你的电源在150W以上，并且加装了外置风扇。<br>
@@ -44,6 +45,8 @@ The following are the available firmware versions and prices<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300KAS | 0 | 130W  |
+| ks0pro_？？？g | iceriver_ks0pro | ？？？G | ？？？？kas | 0 | 230w  |
+
 <br>
 
 KS0_ 180G is a new solution. Machines that were previously unable to upgrade to the 160G version can be tried. Two versions of firmware, 160G and 180G, will be provided.<br>
@@ -55,6 +58,9 @@ Please contact me and let me know the MAC address of your device. Regardless of 
 If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>KS0 will not participate in this event.<br>
 No, the first firmware is to clean up your cache.
 
+<br>
+-------------------------------------------Update 11.29--------------------------------------------------------<br>
+KS0PRO开发中。请各位准备好风扇和230W及以上的电源。
 <br>
 -------------------------------------------Update 11.21--------------------------------------------------------<br>
 更新退款条款和说明<br>
