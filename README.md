@@ -18,7 +18,8 @@ The English version is as follows:<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
 | ks0pro_360g | iceriver_ks0pro | 320-360G | ？？？？kas | 0 | 200w  |
-
+<br>KS0PRO_360G需要更好的散热，所以我公布了我设计的散热风扇支架（Side blower fan bracket.obj），3D打印即可使用，有需要的自行寻找3D打印服务。<br>
+<br>KS0PRO_360G将会提供3个版本的固件.320G\340G\360G。<br>
 KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝试。将会提供160G和180G，2个版本的固件。<br>
 使用这份固件，请确保你的电源在150W以上，并且加装了外置风扇。<br>
 
@@ -48,7 +49,10 @@ The following are the available firmware versions and prices<br>
 | ks0pro_360g | iceriver_ks0pro | 320-360G | ？？？？kas | 0 | 200w  |
 
 <br>
-
+KS0PRO_360G requires better cooling, so I have released the cooling fan bracket that I designed (Side blower fan bracket.obj). You can use 3D printing to create it. If needed, please find a 3D printing service on your own.
+<br>
+KS0PRO_360G will provide three firmware versions: 320G, 340G, and 360G.
+<br>
 KS0_ 180G is a new solution. Machines that were previously unable to upgrade to the 160G version can be tried. Two versions of firmware, 160G and 180G, will be provided.<br>
 Using this firmware, please ensure that your KS0 has an additional fan installed. It's best to replace the silicone grease.
 Power supply power above 150W
