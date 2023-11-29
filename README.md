@@ -60,6 +60,8 @@ No, the first firmware is to clean up your cache.
 
 <br>
 -------------------------------------------Update 11.29--------------------------------------------------------<br>
+更换了LOGO和二维码样式。有些人说我丑，现在总喜欢了吧？<br>
+Changed the logo and QR code style. Some people say I'm ugly, but I still like it now, right?<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/xyys81255/Iceriver-OC/main/Pic/ks0pro360G.webp">
 </div>
