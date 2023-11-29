@@ -60,6 +60,8 @@ No, the first firmware is to clean up your cache.
 
 <br>
 -------------------------------------------Update 11.29--------------------------------------------------------<br>
+https://media.discordapp.net/attachments/1048608637523857510/1179348966106742805/image.png?ex=65797550&is=65670050&hm=b964b875f51f38be5f9a968fdac62b2e8d47192014b41c34481e91b08459056b&=&format=webp&quality=lossless&width=1618&height=786<br>
+↑↑↑↑↑↑↑KS0PRO算力图↑↑↑↑↑↑<br>
 KS0PRO开发中。请各位准备好风扇和230W及以上的电源。<br>
 新增加了文件：Side blower fan bracket. OBJ，可用于KS0和KS0PRO。增加12CM风扇侧吹风。散热绝佳。请自行寻找3D打印服务。<br>
 https://media.discordapp.net/attachments/1048608637523857510/1179352703797841940/image.png?ex=657978cb&is=656703cb&hm=80bcb062c668494dec8df3371bdf3a4d69dd10a9e472516b4517ca0e163e2242&=&format=webp&quality=lossless&width=744&height=801<br>
