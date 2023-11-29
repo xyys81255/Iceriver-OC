@@ -17,7 +17,7 @@ The English version is as follows:<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
-| ks0pro_360g | iceriver_ks0pro | 320-360G | 1500kas | 0 | 200w  |
+| ks0pro_360g | iceriver_ks0pro | 320-360G | 1300kas | 0 | 200w  |
 <br>
 KS0PRO_360G需要更好的散热，所以我公布了我设计的散热风扇支架（Side blower fan bracket.obj），3D打印即可使用，有需要的自行寻找3D打印服务。<br>
 <br>KS0PRO_360G将会提供3个版本的固件.320G\340G\360G。<br>
@@ -48,7 +48,7 @@ The following are the available firmware versions and prices<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300KAS | 0 | 130W  |
-| ks0pro_360g | iceriver_ks0pro | 320-360G | 1500kas | 0 | 200w  |
+| ks0pro_360g | iceriver_ks0pro | 320-360G | 1300kas | 0 | 200w  |
 
 <br>
 KS0PRO_360G requires better cooling, so I have released the cooling fan bracket that I designed (Side blower fan bracket.obj). You can use 3D printing to create it. If needed, please find a 3D printing service on your own.<br>
