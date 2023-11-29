@@ -17,7 +17,7 @@ The English version is as follows:<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
-| ks0pro_？？？g | iceriver_ks0pro | ？？？G | ？？？？kas | 0 | 230w  |
+| ks0pro_360g | iceriver_ks0pro | 360G | ？？？？kas | 0 | 200w  |
 
 KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝试。将会提供160G和180G，2个版本的固件。<br>
 使用这份固件，请确保你的电源在150W以上，并且加装了外置风扇。<br>
@@ -45,7 +45,7 @@ The following are the available firmware versions and prices<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300KAS | 0 | 130W  |
-| ks0pro_？？？g | iceriver_ks0pro | ？？？G | ？？？？kas | 0 | 230w  |
+| ks0pro_360g | iceriver_ks0pro | 360G | ？？？？kas | 0 | 200w  |
 
 <br>
 
@@ -60,7 +60,10 @@ No, the first firmware is to clean up your cache.
 
 <br>
 -------------------------------------------Update 11.29--------------------------------------------------------<br>
-KS0PRO开发中。请各位准备好风扇和230W及以上的电源。
+KS0PRO开发中。请各位准备好风扇和230W及以上的电源。<br>
+新增加了文件：Side blower fan bracket. OBJ，可用于KS0和KS0PRO。增加12CM风扇侧吹风。散热绝佳。请自行寻找3D打印服务。<br>
+https://media.discordapp.net/attachments/1048608637523857510/1179352703797841940/image.png?ex=657978cb&is=656703cb&hm=80bcb062c668494dec8df3371bdf3a4d69dd10a9e472516b4517ca0e163e2242&=&format=webp&quality=lossless&width=744&height=801<br>
+New file added: Side blower fan bracket OBJ, can be used for KS0 and KS0PRO. Add 12CM fan side blowing. Excellent heat dissipation. Please find your own 3D printing service.<br>
 <br>
 -------------------------------------------Update 11.21--------------------------------------------------------<br>
 更新退款条款和说明<br>
