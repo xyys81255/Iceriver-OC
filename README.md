@@ -60,11 +60,17 @@ No, the first firmware is to clean up your cache.
 
 <br>
 -------------------------------------------Update 11.29--------------------------------------------------------<br>
-https://media.discordapp.net/attachments/1048608637523857510/1179348966106742805/image.png?ex=65797550&is=65670050&hm=b964b875f51f38be5f9a968fdac62b2e8d47192014b41c34481e91b08459056b&=&format=webp&quality=lossless&width=1618&height=786<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xyys81255/Iceriver-OC/main/Pic/ks0pro360G.webp">
+</div>
+<br>
 ↑↑↑↑↑↑↑KS0PRO算力图↑↑↑↑↑↑<br>
 KS0PRO开发中。请各位准备好风扇和230W及以上的电源。<br>
 新增加了文件：Side blower fan bracket. OBJ，可用于KS0和KS0PRO。增加12CM风扇侧吹风。散热绝佳。请自行寻找3D打印服务。<br>
-https://media.discordapp.net/attachments/1048608637523857510/1179352703797841940/image.png?ex=657978cb&is=656703cb&hm=80bcb062c668494dec8df3371bdf3a4d69dd10a9e472516b4517ca0e163e2242&=&format=webp&quality=lossless&width=744&height=801<br>
+<div align="center">
+  <img src="https://github.com/xyys81255/Iceriver-OC/blob/main/Pic/FAN.webp">
+</div>
+<br>
 New file added: Side blower fan bracket OBJ, can be used for KS0 and KS0PRO. Add 12CM fan side blowing. Excellent heat dissipation. Please find your own 3D printing service.<br>
 <br>
 -------------------------------------------Update 11.21--------------------------------------------------------<br>
@@ -75,7 +81,10 @@ New file added: Side blower fan bracket OBJ, can be used for KS0 and KS0PRO. Add
 *You can apply for a version that charges development fees to try out. Effective re payment.<br>
 -------------------------------------------Update 11.8--------------------------------------------------------<br>
 someone's ks0 run on the 188GG.
-https://cdn.discordapp.com/attachments/1155048883563540601/1171837324645109790/IMG_0528.jpg?ex=655e218d&is=654bac8d&hm=7fa55abad1a8dea54a72d7f7124fa0a2ec7b6e49d1a6dc643f6dd561f9d449db&<br>
+<div align="center">
+  <img src="https://github.com/xyys81255/Iceriver-OC/blob/main/Pic/188GKS0.jpg">
+</div>
+<br>
 -------------------------------------------Update 11.8--------------------------------------------------------<br>
 KS2 2750G上市。
 <br>
