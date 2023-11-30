@@ -16,6 +16,7 @@ The English version is as follows:<br>
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 1500kas | 0 | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
 | ks0pro_360g | iceriver_ks0pro | 320-360G | 1300kas | 0 | 200w  |
 <br>
@@ -47,6 +48,7 @@ The following are the available firmware versions and prices<br>
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
 | ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 1500kas | 0 | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300KAS | 0 | 130W  |
 | ks0pro_360g | iceriver_ks0pro | 320-360G | 1300kas | 0 | 200w  |
 
@@ -65,6 +67,8 @@ If you have already purchased my firmware, please contact me and make up for the
 No, the first firmware is to clean up your cache.
 
 <br>
+-------------------------------------------Update 11.30--------------------------------------------------------<br>
+增加了KS2_2450G的版本，新批次的KS2硬件设计更改，导致原OC无法生效。故开发设计新固件，最多支持到2450G，随2750G一起销售。购买KS2固件会获得3个版本。2750\2750H\2450H。<br>
 -------------------------------------------Update 11.29--------------------------------------------------------<br>
 更换了LOGO和二维码样式。有些人说我丑，现在总喜欢了吧？<br>
 Changed the logo and QR code style. Some people say my old logo is too ugly. So I replaced it with a new one.<br>
