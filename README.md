@@ -68,6 +68,12 @@ No, the first firmware is to clean up your cache.
 
 <br>
 -------------------------------------------Update 11.30--------------------------------------------------------<br>
+增加了简易的侧吹风装置示意图，可以让没有3D打印服务的人参考这个方案手工制作。Added a simple diagram of a side-blowing device, which can serve as a reference for those without 3D printing services to manually create the setup.<br>
+<div align="center">
+  <img src="https://github.com/xyys81255/Iceriver-OC/blob/main/Pic/photo_2023-12-02_01-11-34.jpg">
+</div>
+<br>
+-------------------------------------------Update 11.30--------------------------------------------------------<br>
 增加了KS2_2450G的版本，新批次的KS2硬件设计更改，导致原OC无法生效。故开发设计新固件，最多支持到2450G，随2750G一起销售。购买KS2固件会获得3个版本。2750\2750H\2450H。<br>
 -------------------------------------------Update 11.29--------------------------------------------------------<br>
 更换了LOGO和二维码样式。有些人说我丑，现在总喜欢了吧？<br>
