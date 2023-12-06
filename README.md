@@ -1,13 +1,21 @@
 # Iceriver-OC
 这是一份关于ICERIVER_xyys版本的说明：<br>
 The English version is as follows:<br>
+
 目前所有固件采用MAC地址绑定的方式制作，请通过**telegram**或者**discord**联系我。<br>
-**`telegram:@xyys81255`<br>**
-**`discord:xyys._81255`<br>**
+
+**`telegram:@xyys81255` https://t.me/XYYS.81255  telegram：https://t.me/XYYS81255_IROCFW<br>**
+
+**`discord:xyys._81255`https://discord.gg/RVTQ3bmfpS <br>**
+
 如果您有多台设备，可以申请折扣，具体折扣请联系我。<br>
+
 *固件升级无效全额退款。<br>
+
 *可以申请抽成版本来试用。有效再付款。<br>
+
 以下为可选择的固件版本及售价<br>
+
 | 固件版本 | 适用型号 | 算力 | 售价 | 开发费 |  功耗  |
 | --- | --- | --- |  --- |  --- |  --- |
 | ks1_1.6T | iceriver_ks1 | 1600G | 2000KAS | 0 | 1350W  |
@@ -18,8 +26,9 @@ The English version is as follows:<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks2_2.45T | iceriver_ks2 | 2450G | 1500kas | 0 | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
-| ks0pro_360g | iceriver_ks0pro | 280-360G | 参考下面 | 0 | 200w  |
+| ks0pro_360g | iceriver_ks0pro | 280-360G | 参考12.4日更新 | 0 | 200w  |
 <br>
+
 KS0PRO_360G需要更好的散热，所以我公布了我设计的散热风扇支架（Side blower fan bracket.obj），3D打印即可使用，有需要的自行寻找3D打印服务。<br>
 <br>KS0PRO_360G将会提供3个版本的固件.320G\340G\360G。<br>
 <br>
@@ -32,12 +41,19 @@ KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝�
 <br>
 
 This is a document about ICERIVER_ Description of xyys version:<br>
+
 Currently, all firmware is produced using MAC address binding. Please contact me through Telegram or Discord<br>
-telegram:@xyys81255<br>
-discord:xyys._81255<br>
+
+telegram:@xyys81255 https://t.me/XYYS.81255  telegram：https://t.me/XYYS81255_IROCFW<br>
+
+discord:xyys._81255 https://discord.gg/TzX38TTbfa<br>
+
 If you have multiple devices, you can apply for a discount. Please contact me for specific discounts.<br>
+
 *Full refund for invalid firmware upgrade.<br>
+
 *You can apply for a version that charges development fees to try out. Effective re payment.<br>
+
 The following are the available firmware versions and prices<br>
 
 | FW version | model | hash rate | prices | dev fee |  power waste  |
@@ -50,7 +66,7 @@ The following are the available firmware versions and prices<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks2_2.45T | iceriver_ks2 | 2450G | 1500kas | 0 | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 300KAS | 0 | 130W  |
-| ks0pro_360g | iceriver_ks0pro | 280-360G | Details below | 0 | 200w  |
+| ks0pro_360g | iceriver_ks0pro | 280-360G | Reference to the update on Dec4th | 0 | 200w  |
 
 <br>
 KS0PRO_360G requires better cooling, so I have released the cooling fan bracket that I designed (Side blower fan bracket.obj). You can use 3D printing to create it. If needed, please find a 3D printing service on your own.<br>
@@ -64,8 +80,26 @@ Power supply power above 150W
 Please contact me and let me know the MAC address of your device. Regardless of the version, all versions of firmware are bound to the MAC address.<br>
 
 If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>KS0 will not participate in this event.<br>
+-------------------------------------------Update 12.6--------------------------------------------------------<br>
+telegram：https://t.me/XYYS81255_IROCFW 固件更新通知频道<br>
 
+修改了12月4日更新的表格。增加了250G\260G\270G固件。<br>
 
+固件中的L代表更低的功耗。在同一台机器上，280G比280G_L消耗更多电量，主要因为机器体质差异巨大。购买固件请优先测试带L的版本，如果算力不达标再测试没有L的版本<br>
+
+300-360G固件有过热烧毁mos管的风险，可以购买，但是我对安全性不负责。因为这批次冰河的机器差异巨大，无法保证每个人都能安全的使用。请确保你使用了散热铜片和3D打印件还有强力风扇（3000转以上）。并拆除电源接口和网线接口的挡板。<br>
+
+再次重申，付费固件无效退款。<br>
+
+Telegram: https://t.me/XYYS81255_IROCFW Firmware Update Notification Channel <br>
+
+The table from the December 4th update has been modified. Firmware for 250G, 260G, and 270G has been added.<br>
+
+In the firmware, "L" indicates lower power consumption. On the same machine, 280G consumes more power than 280G_L, mainly due to significant differences in machine quality. When purchasing firmware, please prioritize testing versions with "L." If the hashrate is not up to standard, then test versions without "L."<br>
+
+There is a risk of overheating and burning the MOS tube for 300-360G firmware. It can be purchased, but I do not take responsibility for its safety. Due to significant variations in this batch of Ice River machines, it cannot be guaranteed that everyone can use them safely. Make sure you use heat dissipation copper sheets, 3D printed parts, and a high-speed fan (3000 RPM or above). Remove the shields from the power and network interfaces.<br>
+
+Once again, it is emphasized that there is no refund for ineffective paid firmware.<br>
 -------------------------------------------Update 12.4--------------------------------------------------------<br>
 KS0pro超频表格
 <br>
@@ -77,10 +111,16 @@ KS0pro超频表格
 | 340G_L | 340-350G | 170W | yes |  yes | 第二档 Tier 2|
 | 320G | 320-330G | 172W | yes |  yes | 第二档Tier 2 |
 | 320G_L | 320-330G | 160W | yes |  yes | 第二档 Tier 2|
-| 300G | 300-315G | 162W | no |  yes | 第二档Tier 2 |
-| 300G_L | 300-315G | 150W | no |  no | 第一档Tier 1|
+| 300G | 300-315G | 162W | yes |  yes | 第二档Tier 2 |
+| 300G_L | 300-315G | 150W | yes |  yes | 第二档Tier 1|
 | 280G | 280-295G | 145W | no |  no | 第一档Tier 1 |
 | 280G_L | 280-295G | 135W | no |  no | 第一档Tier 1 |
+| 270G | 265-275G | 130W-140W | no |  no | 第一档Tier 1 |
+| 260G | 255-265G | 130W-140W | no |  no | 第一档Tier 1 |
+| 250G | 245-255G | 130W-140W | no |  no | 第一档Tier 1 |
+| 270G_L | 265-275G | 130W-140W | no |  no | 第一档Tier 1 |
+| 260G_L | 255-265G | 130W-140W | no |  no | 第一档Tier 1 |
+| 250G_L | 245-255G | 130W-140W | no |  no | 第一档Tier 1 |
 <br>
 KS0PRO由于MOS管发热量巨大，需要进行一定的散热改装，散热片规格：6x6x5MM，铜制散热片，大陆可以直接淘宝搜索购买。海外用户可以参考amazon。风扇罩为3D打印件，打印文件在本项目内可以找到。风扇罩搭配的风扇推荐3000转的12CM风扇。功率5W左右。<br>
 散热片安装如图所示。仅需安装红圈部分。请选购带3M粘胶的版本。<br>
@@ -92,7 +132,7 @@ The installation of the heatsink is as shown in the diagram. Only the part circl
 </div>
 风扇罩需拆掉两侧挡板，保持内侧通风，最佳摆放方式为横放，风扇口朝上。<br>
 价格：<br>
-第一档：价格待定<br>
+第一档：700kas <br>
 第二档：价格待定<br>
 购买第二档会赠送第一档的固件。<br>
 360G版本有损坏MOS管的风险，目前我个人的机器96小时无损坏。购买了第二档的用户申请可以获得。<br>
