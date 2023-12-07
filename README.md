@@ -81,10 +81,20 @@ Please contact me and let me know the MAC address of your device. Regardless of 
 
 If you have already purchased my firmware, please contact me and make up for the price difference to obtain it.<br>KS0 will not participate in this event.<br>
 
-https://github.com/xyys81255/Iceriver-OC/assets/62883624/17d2477e-c472-4e75-aaf2-70bfc1a944ff
+-------------------------------------------Update 12.7--------------------------------------------------------<br>
+放两个我自己的设备运行中的状态。<br>
+
+Put two of my own devices in operation.<br>
+
+https://github.com/xyys81255/Iceriver-OC/assets/62883624/17d2477e-c472-4e75-aaf2-70bfc1a944ff<br>
 
 
-https://github.com/xyys81255/Iceriver-OC/assets/62883624/7d86e834-7587-45bb-adb3-b4906f787f29
+https://github.com/xyys81255/Iceriver-OC/assets/62883624/7d86e834-7587-45bb-adb3-b4906f787f29<br>
+
+<div align="center">
+  <img src="https://github.com/xyys81255/Iceriver-OC/blob/main/Pic/%E9%A3%8E%E6%89%87%E5%8A%9F%E8%80%97.jpg">
+</div>
+
 -------------------------------------------Update 12.6--------------------------------------------------------<br>
 telegram：https://t.me/XYYS81255_IROCFW 固件更新通知频道<br>
 
