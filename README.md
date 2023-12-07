@@ -89,6 +89,8 @@ Put two of my own devices in operation.<br>
 https://github.com/xyys81255/Iceriver-OC/assets/62883624/17d2477e-c472-4e75-aaf2-70bfc1a944ff
 
 
+https://github.com/xyys81255/Iceriver-OC/assets/62883624/7d86e834-7587-45bb-adb3-b4906f787f29
+
 <div align="center">
   <img src="https://github.com/xyys81255/Iceriver-OC/blob/main/Pic/%E9%A3%8E%E6%89%87%E5%8A%9F%E8%80%97.jpg">
 </div>
