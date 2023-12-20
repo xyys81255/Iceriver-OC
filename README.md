@@ -4,7 +4,7 @@ The English version is as follows:<br>
 
 目前所有固件采用MAC地址绑定的方式制作，请通过**telegram**或者**discord**联系我。<br>
 
-**`telegram:@xyys81255` https://t.me/XYYS.81255  telegram：https://t.me/XYYS81255_IROCFW<br>**
+**`telegram:@xyys81255`https://t.me/xyys81255  telegram：https://t.me/XYYS81255_IROCFW<br>**
 
 **`discord:xyys._81255`https://discord.gg/RVTQ3bmfpS <br>**
 
