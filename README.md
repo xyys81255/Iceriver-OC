@@ -102,7 +102,7 @@ telegram：https://t.me/XYYS81255_IROCFW 固件更新通知频道<br>
 
 固件中的L代表更低的功耗。在同一台机器上，280G比280G_L消耗更多电量，主要因为机器体质差异巨大。购买固件请优先测试带L的版本，如果算力不达标再测试没有L的版本<br>
 
-300-360G固件有过热烧毁mos管的风险，可以购买，但是我对安全性不负责。因为这批次冰河的机器差异巨大，无法保证每个人都能安全的使用。请确保你使用了散热铜片和3D打印件还有强力风扇（3000转以上）。并拆除电源接口和网线接口的挡板。<br>
+300-360G固件有过热烧毁mos管的风险，暂时不出售。因为这批次冰河的机器差异巨大，无法保证每个人都能安全的使用。<br>
 
 再次重申，付费固件无效退款。<br>
 
@@ -111,8 +111,6 @@ Telegram: https://t.me/XYYS81255_IROCFW Firmware Update Notification Channel <br
 The table from the December 4th update has been modified. Firmware for 250G, 260G, and 270G has been added.<br>
 
 In the firmware, "L" indicates lower power consumption. On the same machine, 280G consumes more power than 280G_L, mainly due to significant differences in machine quality. When purchasing firmware, please prioritize testing versions with "L." If the hashrate is not up to standard, then test versions without "L."<br>
-
-There is a risk of overheating and burning the MOS tube for 300-360G firmware. It can be purchased, but I do not take responsibility for its safety. Due to significant variations in this batch of Ice River machines, it cannot be guaranteed that everyone can use them safely. Make sure you use heat dissipation copper sheets, 3D printed parts, and a high-speed fan (3000 RPM or above). Remove the shields from the power and network interfaces.<br>
 
 Once again, it is emphasized that there is no refund for ineffective paid firmware.<br>
 -------------------------------------------Update 12.4--------------------------------------------------------<br>
