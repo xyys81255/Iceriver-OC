@@ -14,19 +14,19 @@ The English version is as follows:<br>
 
 *可以申请抽成版本来试用。有效再付款。<br>
 
-以下为可选择的固件版本及售价<br>
+以下为可选择的固件版本及售价（更新日期：2023-12-31）<br>
 
 | 固件版本 | 适用型号 | 算力 | 售价 | 开发费 |  功耗  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1600G | 2000KAS | 0 | 1350W  |
+| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 0 | 1350W  |
 | ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W  |
-| ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS | 0 | 3550W （风扇外接）  | 
+| ks3_8.8T | iceriver_ks3 | 8300-8800G | 3000KAS | 0 | 3550W （风扇外接）  | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
-| ks2_2.45T | iceriver_ks2 | 2450G | 1500kas | 0 | 1800w  |
-| ks0_180g | iceriver_ks0 | 170-180G | 300kas | 0 | 130w  |
-| ks0pro_360g | iceriver_ks0pro | 280-360G | 参考12.4日更新 | 0 | 200w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1800w  |
+| ks0_180g | iceriver_ks0 | 170-180G | 100kas | 0 | 130w  |
+| ks0pro_280g | iceriver_ks0pro | 250G-280G | 150kas | 0 | 180w  |
 <br>
 
 KS0PRO_360G需要更好的散热，所以我公布了我设计的散热风扇支架（Side blower fan bracket.obj），3D打印即可使用，有需要的自行寻找3D打印服务。<br>
@@ -58,15 +58,15 @@ The following are the available firmware versions and prices<br>
 
 | FW version | model | hash rate | prices | dev fee |  power waste  |
 | --- | --- | --- |  --- |  --- |  --- |
-| ks1_1.6T | iceriver_ks1 | 1600G | 2000KAS | 0 | 1350W | 
+| ks1_1.6T | iceriver_ks1 | 1600G | 400KAS | 0 | 1350W | 
 | ks1_1.6T | iceriver_ks1 | 1600G | 0 | 5% | 1350W |
-| ks3_8.8T | iceriver_ks3 | 8300-8800G | 4000KAS| 0 | 3550W (The fan is powered externally） | 
+| ks3_8.8T | iceriver_ks3 | 8300-8800G | 400KAS| 0 | 3550W (The fan is powered externally） | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
-| ks2_2.75T | iceriver_ks2 | 2750G | 1500kas | 0 | 1800w  |
+| ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1800w  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
-| ks2_2.45T | iceriver_ks2 | 2450G | 1500kas | 0 | 1800w  |
-| ks0_180g | iceriver_ks0 | 170-180G | 300KAS | 0 | 130W  |
-| ks0pro_360g | iceriver_ks0pro | 280-360G | Reference to the update on Dec4th | 0 | 200w  |
+| ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1800w  |
+| ks0_180g | iceriver_ks0 | 170-180G | 100KAS | 0 | 130W  |
+| ks0pro_280g | iceriver_ks0pro | 250-280G | 150kas | 0 | 180w  |
 
 <br>
 KS0PRO_360G requires better cooling, so I have released the cooling fan bracket that I designed (Side blower fan bracket.obj). You can use 3D printing to create it. If needed, please find a 3D printing service on your own.<br>
