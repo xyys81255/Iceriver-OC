@@ -26,10 +26,12 @@ The English version is as follows:<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 100kas | 0 | 130w  |
-| ks0pro_280g | iceriver_ks0pro | 250G-280G | 600kas | 0 | 180w  |
+| ks0pro_280g | iceriver_ks0pro | 250G-280G | 200kas | 0 | 180w  |
+| ks0pro_340g | iceriver_ks0pro | 250G-340G | 250kas | 0 | 180w  |
 <br>
+340G固件可能造成硬件损坏，即使你改装了我推荐的所有散热，依然有损坏的风险，对于硬件的损坏我不负责。280G以内的固件是安全的。<br>
+KS0PRO_340G需要更好的散热，所以我公布了我设计的散热风扇支架，和其他人设计的风扇罩，3D打印即可使用，有需要的自行寻找3D打印服务。<br>
 
-KS0PRO_360G需要更好的散热，所以我公布了我设计的散热风扇支架（Side blower fan bracket.obj），3D打印即可使用，有需要的自行寻找3D打印服务。<br>
 <br>KS0PRO_360G将会提供3个版本的固件.320G\340G\360G。<br>
 <br>
 KS0_180G 是新的方案。以前无法升级到160G版本的机器都可以尝试。将会提供160G和180G，2个版本的固件。<br>
@@ -66,9 +68,11 @@ The following are the available firmware versions and prices<br>
 | ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 100KAS | 0 | 130W  |
-| ks0pro_280g | iceriver_ks0pro | 250-280G | 600kas | 0 | 180w  |
-
+| ks0pro_280g | iceriver_ks0pro | 250G-280G | 200kas | 0 | 180w  |
+| ks0pro_340g | iceriver_ks0pro | 250G-340G | 250kas | 0 | 180w  |
 <br>
+"The 340G firmware may cause hardware damage, even if you have installed all the recommended cooling modifications, there is still a risk of damage. I am not responsible for hardware damage. Firmware below 280G is safe."<br>
+"340G прошивка может вызвать повреждение аппаратного обеспечения, даже если вы установили все рекомендованные модификации по охлаждению, по-прежнему существует риск повреждения. Я не несу ответственности за повреждение аппаратного обеспечения. Прошивка ниже 280G безопасна."<br>
 KS0PRO_360G requires better cooling, so I have released the cooling fan bracket that I designed (Side blower fan bracket.obj). You can use 3D printing to create it. If needed, please find a 3D printing service on your own.<br>
 <br>
 KS0PRO_360G will provide three firmware versions: 320G, 340G, and 360G.<br>
