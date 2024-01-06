@@ -116,7 +116,7 @@ In the firmware, "L" indicates lower power consumption. On the same machine, 280
 
 Once again, it is emphasized that there is no refund for ineffective paid firmware.<br>
 -------------------------------------------Update 12.4--------------------------------------------------------<br>
-KS0pro超频表格
+KS0pro超频表格（以下表格数据仅供参考，价格参考上面。）
 <br>
 
 | 固件版本version | 算力hashrate | 功耗power | 散热片heatsink | 风扇罩fan cowl | 价格price |
@@ -139,8 +139,8 @@ KS0pro超频表格
 <br>
 
 价格：<br>
-第一档：600kas <br>
-第二档：价格待定<br>
+第一档：<br>
+第二档：<br>
 购买第二档会赠送第一档的固件。<br>
 360G版本有损坏MOS管的风险，目前我个人的机器96小时无损坏。购买了第二档的用户申请可以获得。<br>
 
