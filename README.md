@@ -23,7 +23,6 @@ The English version is as follows:<br>
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 3100KAS | 0 | 3550W （风扇外接）  | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% |  3350W  |
 | ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1800w  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 100kas | 0 | 130w  |
 | ks0pro_280g | iceriver_ks0pro | 250G-280G | 200kas | 0 | 180w  |
@@ -65,7 +64,6 @@ The following are the available firmware versions and prices<br>
 | ks3_8.8T | iceriver_ks3 | 8300-8800G | 3100KAS| 0 | 3550W (The fan is powered externally） | 
 | ks3_8.5T | iceriver_ks3 | 8300-8800G | 0 | 1% | 3350W |
 | ks2_2.75T | iceriver_ks2 | 2750G | 400kas | 0 | 1800w  |
-| ks2_2.75T | iceriver_ks2 | 2750G | 0 | 3% | 1800w  |
 | ks2_2.45T | iceriver_ks2 | 2450G | 400kas | 0 | 1800w  |
 | ks0_180g | iceriver_ks0 | 170-180G | 100KAS | 0 | 130W  |
 | ks0pro_280g | iceriver_ks0pro | 250G-280G | 200kas | 0 | 180w  |
