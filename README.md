@@ -27,7 +27,9 @@ The English version is as follows:<br>
 | ks0_180g | iceriver_ks0 | 170-180G | 100kas | 0 | 130w  |
 | ks0pro_280g | iceriver_ks0pro | 250G-280G | 200kas | 0 | 180w  |
 | ks0pro_340g | iceriver_ks0pro | 250G-340G | 250kas | 0 | 180w  |
-<br>
+| ks3M/L_6750G | iceriver_ks3m/l | 6250-6750G | 400kas | 0 | 3550w  |
+
+KS3M/L的升级固件需要使用配套的工具，可以在github中下载，右侧的releases中的‘温度检测工具’。其他型号的设备也可以通过工具查询芯片状态。<br>
 340G固件可能造成硬件损坏，即使你改装了我推荐的所有散热，依然有损坏的风险，对于硬件的损坏我不负责。280G以内的固件是安全的。<br>
 KS0PRO_340G需要更好的散热，所以我公布了我设计的散热风扇支架，和其他人设计的风扇罩，3D打印即可使用，有需要的自行寻找3D打印服务。<br>
 
@@ -68,6 +70,9 @@ The following are the available firmware versions and prices<br>
 | ks0_180g | iceriver_ks0 | 170-180G | 100KAS | 0 | 130W  |
 | ks0pro_280g | iceriver_ks0pro | 250G-280G | 200kas | 0 | 180w  |
 | ks0pro_340g | iceriver_ks0pro | 250G-340G | 250kas | 0 | 180w  |
+| ks3M/L_6750G | iceriver_ks3m/l | 6250-6750G | 400kas | 0 | 3550w  |
+
+The upgrade firmware for the KS3M/L requires the use of a corresponding tool, which can be downloaded from GitHub. Look for the '温度检测工具' in the 'releases' section on the right side. This tool can also be used to check the chip status of other device models.<br>
 <br>
 "The 340G firmware may cause hardware damage, even if you have installed all the recommended cooling modifications, there is still a risk of damage. I am not responsible for hardware damage. Firmware below 280G is safe."<br>
 "340G прошивка может вызвать повреждение аппаратного обеспечения, даже если вы установили все рекомендованные модификации по охлаждению, по-прежнему существует риск повреждения. Я не несу ответственности за повреждение аппаратного обеспечения. Прошивка ниже 280G безопасна."<br>
