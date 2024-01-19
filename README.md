@@ -1,3 +1,14 @@
+紧急通知：最近发现了一批机器被修改了host文件进行抽成，请各位有能力的用户抓包检查自己的机器是否链接了一下IP地址:<br>
+此攻击主要通过修改host文件实现，晚些我将发布检查和修复工具。请所有使用过第三方，非我制作的固件的用户自行检查。<br>
+
+Emergency Notice: Recently, it has been discovered that a batch of machines had their host files modified for deduction. Capable users, please capture packets to check if your machines are connected to the following IP addresses:<br>
+This attack is primarily achieved by modifying the host file. Later on, I will release a tool for checking and fixing it.Please check it yourselves if you have used third-party firmware not created by me.<br>
+8.217.185.168<br>
+8.134.163.43<br>
+8.134.186.92<br>
+8.217.131.251<br>
+
+
 # Iceriver-OC
 这是一份关于ICERIVER_xyys版本的说明：<br>
 The English version is as follows:<br>
