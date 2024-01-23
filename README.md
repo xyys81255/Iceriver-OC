@@ -19,7 +19,6 @@ The English version is as follows:<br>
 
 **`discord:xyys._81255`https://discord.gg/RVTQ3bmfpS <br>**
 
-如果您有多台设备，可以申请折扣，具体折扣请联系我。<br>
 
 *固件升级无效全额退款。<br>
 
@@ -62,7 +61,6 @@ telegram:@xyys81255 https://t.me/XYYS.81255  telegram：https://t.me/XYYS81255_I
 
 discord:xyys._81255 https://discord.gg/TzX38TTbfa<br>
 
-If you have multiple devices, you can apply for a discount. Please contact me for specific discounts.<br>
 
 *Full refund for invalid firmware upgrade.<br>
 
